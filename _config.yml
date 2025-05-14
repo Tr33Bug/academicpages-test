@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "GH Wiegand et al."
 title_separator          : "-"
-name                     : &name "Goetz-Henrik Wiegand"
+name                     : &name "Götz-Henrik Wiegand"
 description              : &description "This is a test site for the academicpages theme"
 url                      : https://tr33bug.github.io/academicpages-test # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "https://github.com/Tr33Bug/academicpages-test"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Goetz-Henrik Wiegand"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD student in the department of computer science at University of St. Gallen, Switzerland at chair the of Siegfried Handschuh. Focussing on foundation models and training algorithms for large language models.""
+  name             : "Götz-Henrik Wiegand"
+  pronouns         : "he/his" # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "University of St. Gallen (HSG)"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "goetz-henrik.wiegand@unisg.ch" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
