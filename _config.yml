@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "GH Wiegand et al."
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Götz-Henrik Wiegand"
+description              : &description "This is a test site for the academicpages theme"
+url                      : https://tr33bug.github.io/academicpages-test # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/Tr33Bug/academicpages-test"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Götz-Henrik Wiegand"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student in the department of computer science at University of St. Gallen, Switzerland at chair the of Siegfried Handschuh. Focussing on foundation models and training algorithms for large language models.""
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of St. Gallen (HSG)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "götz-henrik.wiegand@unisg.ch" 
 
   # Academic websites
   academia         : # URL
